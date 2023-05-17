@@ -1,0 +1,30 @@
+{
+    "Header": {
+        "Service Identifer": "003",
+        "Service Client": 611,
+        "Service Policy": "00002-0001"
+    },
+    "Footer": {
+        "Total Billing": "00001",
+        "Premium customer": "000019460",
+        "Total Tax Amt": "0000000"
+    },
+    "Data": [
+        {
+        "Cert Number": "2600411507",
+        "LLAmt": "FSB2B609",
+        "CP Amount": "04700000"
+    },
+       {
+        "Cert Number": "2600411507",
+        "LLAmt": "FSB2B610",
+        "CP Amount": "04700000"
+       }
+    ,
+       {
+        "Cert Number": "2600411507",
+        "LLAmt": "FSB2B611",
+        "CP Amount": "04700000"
+       }
+    ]
+}
